@@ -15,6 +15,7 @@ export default createMachine({
   initial: "idle",
   context: {
     subreddit: null,
+    posts: null,
   },
   states: {
     idle: {},
