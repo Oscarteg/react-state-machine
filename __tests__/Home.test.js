@@ -4,5 +4,5 @@ import Home from "../pages/index";
 
 test("Check for Getting Started Text", () => {
   const { getByText } = render(<Home />);
-  expect(getByText("Hello world")).toBeInTheDocument();
+  expect(getByText("Finite state machine")).toBeInTheDocument();
 });

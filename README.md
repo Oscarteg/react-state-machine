@@ -7,3 +7,5 @@ Suppose we wanted to create an app that displays a selected subreddit's posts. T
 - Display the last time the selected subreddit was loaded
 - Reload the selected subreddit
 - Select a different subreddit at any time
+
+- https://brilliant.org/wiki/finite-state-machines/
